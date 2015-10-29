@@ -1,6 +1,7 @@
 # check_postfixmailqueue
-icinga/nagios plugin to monitor the postfix mailqueue using the `postqueue` command
+icinga/nagios plugin to monitor the postfix mailqueue using the `postqueue` command.
 
+based on: https://exchange.icinga.org/exchange/check_postfixmailqueue
 
 ## Usage
 
